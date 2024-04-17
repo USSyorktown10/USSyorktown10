@@ -2,12 +2,15 @@
 -  **I’m interested in**
     - Trying to code
     - Get a website
+    - Learning
 -  **I’m currently learning**
     - Basic HTML
+    - Web Scraper (Python)
     - CSS
     - C++
 - **I’m looking to collaborate on**
     - Website Design
+    - Web Scraping
 - **Fun fact**
     - 2-2 is equal to 1-1
 
