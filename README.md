@@ -12,7 +12,7 @@
     - Website Design
     - Web Scraping
 - **Fun fact**
-    - 2-2 is equal to 1-1
+    - SpaceX was founded in 2002, and had multiple failures with the Falcon 1
 
 <!---
 USSyorktown10/USSyorktown10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
