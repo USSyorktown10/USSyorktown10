@@ -11,9 +11,6 @@
 - **I’m looking to collaborate on**
     - Website Design
     - Web Scraping
-- **Fun fact**
-    - SpaceX was founded in 2002, and had multiple failures with the Falcon 1 and almost went broke
-    - I am not actually Elon Musk, I just like to make huge model rockets and make them fly to low altitudes and come back and land like SpaceX does. 
 
 <!---
 USSyorktown10/USSyorktown10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
