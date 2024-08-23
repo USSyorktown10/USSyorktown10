@@ -1,16 +1,16 @@
 -  **Hi, I’m @USSyorktown10** 
 -  **I’m interested in**
-    - Trying to code
-    - Get a website
-    - Learning
+    - Creating STF (Timeline of games that I have planned making)
+    - AI and LLM usage
+    - Python
 -  **I’m currently learning**
-    - Basic HTML
-    - Web Scraper (Python)
+    - Functions in Python (arguments been killin me)
+    - More python bugs (The bugs are endless)
     - CSS
     - C++
 - **I’m looking to collaborate on**
-    - Website Design
-    - Web Scraping
+    - Help and issues for STF: Captains Chair
+    - More ideas for the STF timeline
 
 <!---
 USSyorktown10/USSyorktown10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
