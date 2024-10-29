@@ -12,7 +12,9 @@
     - Help and issues for STF: Captains Chair
     - More ideas for the STF timeline
     - Any ideas for litteraly anything (ChatGPT gives the most NPC ideas)
-
+- **Working on now**
+    - [STF_Captains_Chair - v.BETA Development](https://github.com/USSyorktown10/STF-Captains-Chair)
+    - [PlayCord with Quantum Bagel](https://github.com/quantumbagel/PlayCord)
 <!---
 USSyorktown10/USSyorktown10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
