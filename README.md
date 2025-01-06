@@ -10,6 +10,8 @@
     - C++
 - **I’m looking to collaborate on**
     - Help and issues for STF: Captains Chair
+    - AI support for RTS
+    - Server suggestions for STF Online
     - More ideas for the STF timeline
     - Any ideas for litteraly anything (ChatGPT gives the most NPC ideas)
 - **Working on now**
