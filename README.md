@@ -1,6 +1,6 @@
 -  **Hi, I’m @USSyorktown10** 
 -  **I’m interested in**
-    - Creating STF (Timeline of games that I have planned making)
+    - Running stuff
     - AI and LLM usage
     - Python
     - json Saving and the works
@@ -9,12 +9,12 @@
     - CSS
     - C++
 - **I’m looking to collaborate on**
-    - Help and issues for STF: Captains Chair
     - AI support for RTS
-    - Server suggestions for STF Online
-    - More ideas for the STF timeline
-    - Any ideas for litteraly anything (ChatGPT gives the most NPC ideas)
+    - Server suggestions for RTS
+    - Any contributions to RTS
+    - ANY HELP YOU CAN GIVE FOR RTS PLEASE
 - **Working on now**
+    - RTS (Link not here yet)     
     - [STF_Captains_Chair - v.BETA Development](https://github.com/USSyorktown10/STF-Captains-Chair)
     - [PlayCord with Quantum Bagel](https://github.com/quantumbagel/PlayCord)
 <!---
