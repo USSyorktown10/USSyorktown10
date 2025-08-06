@@ -6,7 +6,7 @@ The one and only, introducing to you the developer who dosent know crap and gets
 ^^ This thingy is pretty cool! I got it 7/1/25, thanks to @quantumbagel for using this and letting me steal it
 
 ---
-I’m currently focused on **RTS** (Runners Training Software), and this will be my main project until **2028**! 
+I’m currently focused on **Runify** (Formerly RTS), and this will be my main project until **2028**! 
 
 ### **Interests**
 - Running
@@ -25,10 +25,10 @@ I’m currently focused on **RTS** (Runners Training Software), and this will be
 - C++
 
 ### **Looking to Collaborate On**
-- AI enhancements for RTS
+- AI enhancements for Runify
 - Application development
 - Full-stack and frontend projects
-- Contributions to RTS
+- Contributions to Runify
 
 ### **Current Project**
-- [RTS OpenSource v1](https://github.com/USSyorktown10/RTS_OpenSource_v1)
+- [Runify](https://github.com/USSyorktown10/Runify)
