@@ -22,13 +22,22 @@ I’m currently focused on **Runify** (Formerly RTS), and this will be my main p
 - JavaScript
 - Advanced features in HTML and CSS
 - React and js.node (I think that falls under JavaScript?)
-- C++
+- All C Languages
 
 ### **Looking to Collaborate On**
 - AI enhancements for Runify
 - Application development
 - Full-stack and frontend projects
 - Contributions to Runify
+
+### **Languages**
+ - `Markdown/txt` - 🟢 Godlike level, one of the best of everyone when it comes to these languages. (All-American TXT Coder)
+ - `Python` - 🟢 Threshold of Decent, best strength really, but even that isn't too good
+ - `HTML/CSS` 🟢 Good, if I used it as much as Python, I'd be insane with this (finally something im better at than quantum)
+ - `Javascript` - 🟡 OK, know enough to make a website work
+ - `Beating @quantumbagel` - 🔴 Very bad, just y'all wait until I snag his computer...
+ - `Any C Language` - 🔴 No experience, currently learning
+ - `Java` - 🔴 No experience, currently learning
 
 ### **Current Project**
 - [Runify](https://github.com/USSyorktown10/Runify)
