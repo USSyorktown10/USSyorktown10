@@ -1,5 +1,6 @@
 # **Hi, I’m @USSyorktown10 👋**
-The one and only, introducing to you the developer who dosent know crap and gets crazy ideas of thing to code that will (most likely) never become a thing!
+The one and only, introducing to you the developer who doesn't know crap and gets crazy ideas of things to code that will (most likely) never become a thing!
+Also a professional at robbing stuff from Quantum's README, because why not? He's got good ideas...
 
 [![USS Yorktown 10 profile views](https://u8views.com/api/v1/github/profiles/166878579/views/day-week-month-total-count.svg)](https://u8views.com/github/USSyorktown10)
 ---
