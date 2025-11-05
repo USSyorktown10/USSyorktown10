@@ -42,3 +42,5 @@ I’m currently focused on **Runify** (Formerly RTS), and this will be my main p
 
 ### **Current Project**
 - [Runify](https://github.com/USSyorktown10/Runify)
+### **Secondary Project**
+- [Coffee Buddy](https://github.com/USSyorktown10/coffee_buddy)
