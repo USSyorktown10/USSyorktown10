@@ -7,6 +7,7 @@ Also a professional at robbing stuff from Quantum's README, because why not? He'
 
 ---
 I’m currently focused on **Runify** (Formerly RTS), and this will be my main project until **2028**! 
+(Runify shall be renamed soon)
 
 ### **Interests**
 - Running
@@ -19,28 +20,30 @@ I’m currently focused on **Runify** (Formerly RTS), and this will be my main p
 
 ### **Currently Learning**
 - More intricate uses of Python
-- JavaScript
-- Advanced features in HTML and CSS
-- React and js.node (I think that falls under JavaScript?)
-- All C Languages
+- Java
+- C++
+- Getting better at HTML and CSS
+- DevOps (Docker, Google Cloud Stuff, Git, etc.)
+- How to be better at Full Stack Developing
 
 ### **Looking to Collaborate On**
-- AI enhancements for Runify
-- Application development
-- Full-stack and frontend projects
+- Neural Network enhancements for Runify
+- Application development (Swift and whatever Android uses)
+- Full-stack and projects
 - Contributions to Runify
 
 ### **Languages**
- - `Markdown/txt` - 🟢 Markdown > Google Docs (Those who take notes in markdown *silence* heh...)
- - `Python` - 🟢 Threshold of Decent, best strength really, but even that isn't too good
- - `HTML/CSS` 🟢 Good, if I used it as much as Python, I'd be insane with this (finally something im better at than quantum)
- -  `Java` - 🟡 Getting better, know enough to get around
+ - `Markdown/txt` - 🟢 Nothing beats it. Better than Google Docs. (Those who take notes in markdown *cough* heh...)
+ - `Python` - 🟢 Threshold of Decent, best strength of all languages for me.
+ - `HTML/CSS` 🟢 Good, if I used it as much as Python, I'd be better
+ - `Java` - 🟡 Know a decent amount, but not as advanced
  - `Javascript` - 🟡 OK, know enough to make a website work
+ - `C++` - 🟡 On the path of learning!
  - `Beating @quantumbagel` - 🔴 This one might not be possible
- - `Any C Language` - 🔴 No experience, currently learning
 
 ### **Current Project**
 - [Runify](https://github.com/USSyorktown10/Runify)
 ### **Secondary Project**
 - LifeLight coming soon with QuantumBagel and Pixelz?? <sub>if they include me :(</sub>
+- PlayCord with Quantum
 - [Coffee Buddy](https://github.com/USSyorktown10/coffee_buddy) <-- Friend has ideas :)
