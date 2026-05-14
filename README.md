@@ -25,6 +25,7 @@ I’m currently focused on **Runify** (Formerly RTS), and this will be my main p
 - Getting better at HTML and CSS
 - DevOps (Docker, Google Cloud Stuff, Git, etc.)
 - How to be better at Full Stack Developing
+- **Hardware!!!**
 
 ### **Looking to Collaborate On**
 - Neural Network enhancements for Runify
@@ -36,7 +37,7 @@ I’m currently focused on **Runify** (Formerly RTS), and this will be my main p
  - `Markdown/txt` - 🟢 Nothing beats it. Better than Google Docs. (Those who take notes in markdown *cough* heh...)
  - `Python` - 🟢 Threshold of Decent, best strength of all languages for me.
  - `HTML/CSS` 🟢 Good, if I used it as much as Python, I'd be better
- - `Java` - 🟡 Know a decent amount, but not as advanced
+ - `Java` - 🟢 Proficient, know enough to get around, enjoy making stuff with it
  - `Javascript` - 🟡 OK, know enough to make a website work
  - `C++` - 🟡 On the path of learning!
  - `Beating @quantumbagel` - 🔴 This one might not be possible
